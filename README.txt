@@ -1,0 +1,1 @@
+For homework 8, after downloading both the piece and game files, compile using "javac *.java", and then run by using "java Game"
